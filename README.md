@@ -20,4 +20,4 @@ Advanced Insights: Cross-filters linking demographics to behaviors, age-segmente
 Scalability: Enterprise-ready with row-level security, mobile-optimized layout, real-time refresh capabilities, handling 10K+ rows efficiently  
 
 ## 6. Screenshot
-![Alt_text]()
+![Alt_text](https://github.com/Pulkitkunal/Customer-Shopping-Behavior-Dashboard/blob/main/Snapshot%20of%20Customer%20Shopping%20Behavior%20Dashboard.png)
